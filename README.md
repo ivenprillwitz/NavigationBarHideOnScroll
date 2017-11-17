@@ -1,4 +1,4 @@
 # NavigationBarHideOnScroll
 
 
-![](NavigationBarHideOnScroll/navigationbar.gif)
+![](navigationbar.gif)
